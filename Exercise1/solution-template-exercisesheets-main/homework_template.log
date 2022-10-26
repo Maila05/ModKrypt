@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.17)  26 OCT 2022 08:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.17)  26 OCT 2022 09:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1095,26 +1095,38 @@ Overfull \vbox (75.9479pt too high) has occurred while \output is active []
 [1{C:/Users/pramb/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./setup/logo.png> <./setup/FAU_logo.pdf>]
-<figures/logo.png, id=67, 158.41583pt x 158.41583pt>
-File: figures/logo.png Graphic file (type png)
-<use figures/logo.png>
-Package pdftex.def Info: figures/logo.png  used on input line 105.
-(pdftex.def)             Requested size: 56.9055pt x 56.90395pt.
- 
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
 AED: lastpage setting LastPage
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/scsl' undefined
-(Font)              using `OT1/cmss/m/sc' instead on input line 128.
+(Font)              using `OT1/cmss/m/sc' instead on input line 144.
 
 File: setup/logo.png Graphic file (type png)
 <use setup/logo.png>
-Package pdftex.def Info: setup/logo.png  used on input line 128.
+Package pdftex.def Info: setup/logo.png  used on input line 144.
 (pdftex.def)             Requested size: 28.45076pt x 28.45274pt.
 File: setup/FAU_logo.pdf Graphic file (type pdf)
 <use setup/FAU_logo.pdf>
-Package pdftex.def Info: setup/FAU_logo.pdf  used on input line 128.
+Package pdftex.def Info: setup/FAU_logo.pdf  used on input line 144.
 (pdftex.def)             Requested size: 68.57733pt x 28.45274pt.
-[2 <./figures/logo.png>] (homework_template.aux)
+[2]
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/scsl' undefined
+(Font)              using `OT1/cmss/m/sc' instead on input line 144.
+
+File: setup/logo.png Graphic file (type png)
+<use setup/logo.png>
+Package pdftex.def Info: setup/logo.png  used on input line 144.
+(pdftex.def)             Requested size: 28.45076pt x 28.45274pt.
+File: setup/FAU_logo.pdf Graphic file (type pdf)
+<use setup/FAU_logo.pdf>
+Package pdftex.def Info: setup/FAU_logo.pdf  used on input line 144.
+(pdftex.def)             Requested size: 68.57733pt x 28.45274pt.
+[3] (homework_template.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.80002pt have occurred.
@@ -1123,10 +1135,10 @@ Package rerunfilecheck Info: File `homework_template.out' has not changed.
 (rerunfilecheck)             Checksum: FED12652D3F2FEAB4C00FF7C53BE586E;245.
  ) 
 Here is how much of TeX's memory you used:
- 28694 strings out of 477992
- 573081 string characters out of 2827466
- 927607 words of memory out of 3000000
- 46955 multiletter control sequences out of 15000+600000
+ 28680 strings out of 477992
+ 572830 string characters out of 2827466
+ 931607 words of memory out of 3000000
+ 46942 multiletter control sequences out of 15000+600000
  481962 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,25n,123p,554b,618s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1135,25 +1147,30 @@ Here is how much of TeX's memory you used:
 0\tcss1200.pk><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pramb/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pramb/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pramb/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pr
-amb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/U
-sers/pramb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.
-pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmss12.pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmss17.pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmss8.pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/pramb/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/pramb/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/pramb/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/p
-ramb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.p
-fb>
-Output written on homework_template.pdf (2 pages, 520655 bytes).
+fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pramb/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pramb/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pramb/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/p
+ramb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:
+/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr12.pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr6.pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmss10.pfb><C:/Users/pramb/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/pramb/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/pramb/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/pramb/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Use
+rs/pramb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.p
+fb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmssi8.pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmsy8.pfb><C:/Users/pramb/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on homework_template.pdf (3 pages, 513730 bytes).
 PDF statistics:
- 170 PDF objects out of 1000 (max. 8388607)
+ 196 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
- 84 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
